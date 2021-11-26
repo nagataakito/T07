@@ -1,11 +1,4 @@
-<<<<<<< HEAD
-fruits = ["apple " "acerola" ]
-=======
-<<<<<<< HEAD
-fruits = ["apple", "grape"]
-=======
-fruits = ["apple", "Peach"]
->>>>>>> origin/main
->>>>>>> origin/main
+fruits = ["apple", "peach", "grape", "acerola"]
+
 for i in fruits:
   print(i)
